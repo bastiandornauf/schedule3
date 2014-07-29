@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3A446CED-E9CF-48DB-944E-728C4C3F3280}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPSchedule</RootNamespace>
+    <AssemblyName>HPSchedule</AssemblyName>
+    <ApplicationIcon>Resources\doctor32.ico</ApplicationIcon>
+    <StartupObject>HPSchedule.Program</StartupObject>
+    <SignManifests>true</SignManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+    <ManifestCertificateThumbprint>DC9C5D39606BFCD594079B47EE6383E62B9B8051</ManifestCertificateThumbprint>
+    <ManifestKeyFile>bdornauf_hpschedule3.pfx</ManifestKeyFile>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>ftp://ftp.bastian-dornauf.de/schedule/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://www.bastian-dornauf.de/schedule/</InstallUrl>
+    <UpdateUrl>http://www.bastian-dornauf.de/schedule/</UpdateUrl>
+    <SupportUrl>http://www.bastian-dornauf.de/schedule/</SupportUrl>
+    <TargetCulture>de-DE</TargetCulture>
+    <ProductName>HPSchedule 3</ProductName>
+    <PublisherName>Bastian Dornauf</PublisherName>
+    <MinimumRequiredVersion>0.3.1.0</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>0.3.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>bdornauf_hpschedule3.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Component Factory\Krypton Toolkit 3.5.0\Bin\PublisherSigned\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.0.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Programme\MySQL\MySQL Connector Net 5.0.3\Binaries\.NET 2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datenobjekte\Accounting.cs" />
+    <Compile Include="Datenobjekte\AffirmationAwaitingAppointment.cs" />
+    <Compile Include="Datenobjekte\IDatabased.cs" />
+    <Compile Include="Datenobjekte\Invoice.cs" />
+    <Compile Include="Datenobjekte\Options.cs" />
+    <Compile Include="Datenobjekte\dbAction.cs" />
+    <Compile Include="Datenobjekte\Fee.cs" />
+    <Compile Include="Datenobjekte\Gruppe.cs" />
+    <Compile Include="Datenobjekte\Healer.cs" />
+    <Compile Include="Datenobjekte\Insurance.cs" />
+    <Compile Include="Datenobjekte\InvoiceItem.cs" />
+    <Compile Include="Datenobjekte\Room.cs" />
+    <Compile Include="Datenobjekte\TreatedWith.cs" />
+    <Compile Include="Datenobjekte\Treatment.cs" />
+    <Compile Include="Dialoge\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AffirmApointmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AffirmApointmentsForm.Designer.cs">
+      <DependentUpon>AffirmApointmentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AskBoolean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AskBoolean.Designer.cs">
+      <DependentUpon>AskBoolean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AskDateTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AskDateTime.Designer.cs">
+      <DependentUpon>AskDateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AskDoubleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AskDoubleForm.Designer.cs">
+      <DependentUpon>AskDoubleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AskNumericForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AskNumericForm.Designer.cs">
+      <DependentUpon>AskNumericForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AskStringForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AskStringForm.Designer.cs">
+      <DependentUpon>AskStringForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\ContactEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\ContactEditor.Designer.cs">
+      <DependentUpon>ContactEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\AddressEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\AddressEditor.Designer.cs">
+      <DependentUpon>AddressEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Datenobjekte\Appointment.cs" />
+    <Compile Include="Dialoge\GroupEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\GroupEditor.Designer.cs">
+      <DependentUpon>GroupEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\InvoicePrinter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\InvoicePrinter.Designer.cs">
+      <DependentUpon>InvoicePrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\InvoicePrintingDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\InvoicePrintingDlg.Designer.cs">
+      <DependentUpon>InvoicePrintingDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\ItemEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\ItemEditor.Designer.cs">
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\OptionenEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\OptionenEditor.Designer.cs">
+      <DependentUpon>OptionenEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PaneDatabaselConnection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PaneDatabaselConnection.Designer.cs">
+      <DependentUpon>PaneDatabaselConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PanelDayView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PanelDayView.Designer.cs">
+      <DependentUpon>PanelDayView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PanelHealer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\PanelHealer.Designer.cs">
+      <DependentUpon>PanelHealer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\ShowAppointmentsToInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\ShowAppointmentsToInvoice.Designer.cs">
+      <DependentUpon>ShowAppointmentsToInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\ShowFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\ShowFees.Designer.cs">
+      <DependentUpon>ShowFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\TestRechnungsdruck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\TestRechnungsdruck.Designer.cs">
+      <DependentUpon>TestRechnungsdruck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\TreatedWithEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\TreatedWithEditor.Designer.cs">
+      <DependentUpon>TreatedWithEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\TreatmentEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\TreatmentEditor.Designer.cs">
+      <DependentUpon>TreatmentEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helferlein\Database.cs" />
+    <Compile Include="Helferlein\DoDatabaseMagic.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helferlein\FlashWindow.cs" />
+    <Compile Include="Helferlein\GraficHelper.cs" />
+    <Compile Include="Helferlein\LogFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Datenobjekte\PatientNameId.cs" />
+    <Compile Include="Datenobjekte\Patient.cs" />
+    <Compile Include="Dialoge\PatientEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\PatientEditor.Designer.cs">
+      <DependentUpon>PatientEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\InvoiceGroupAndItemEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\InvoiceGroupAndItemEditor.Designer.cs">
+      <DependentUpon>InvoiceGroupAndItemEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialoge\Optionen\OptionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Helferlein\MethodExtensions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="scheduleDataSet.cs">
+      <DependentUpon>scheduleDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="scheduleDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>scheduleDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dialoge\About.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AffirmApointmentsForm.resx">
+      <DependentUpon>AffirmApointmentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AskBoolean.resx">
+      <DependentUpon>AskBoolean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AskDateTime.resx">
+      <DependentUpon>AskDateTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AskDoubleForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AskDoubleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AskNumericForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AskNumericForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AskStringForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AskStringForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\ContactEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContactEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\AddressEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddressEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\GroupEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GroupEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\InvoicePrinter.resx">
+      <DependentUpon>InvoicePrinter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\InvoicePrintingDlg.resx">
+      <DependentUpon>InvoicePrintingDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\ItemEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\OptionenEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OptionenEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\Optionen\PaneDatabaselConnection.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PaneDatabaselConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\Optionen\PanelDayView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PanelDayView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\Optionen\PanelHealer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PanelHealer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\ShowAppointmentsToInvoice.resx">
+      <DependentUpon>ShowAppointmentsToInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\ShowFees.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShowFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\TestRechnungsdruck.resx">
+      <DependentUpon>TestRechnungsdruck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\TreatedWithEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TreatedWithEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\TreatmentEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TreatmentEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\PatientEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PatientEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\InvoiceGroupAndItemEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InvoiceGroupAndItemEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialoge\SuchePatientForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SuchePatientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="bdornauf_hpschedule3.pfx" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Dialoge\SuchePatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialoge\SuchePatientForm.Designer.cs">
+      <DependentUpon>SuchePatientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rechnungswesen\Accounting.cs" />
+    <Compile Include="Rechnungswesen\AppointmentsForInvoice.cs" />
+    <Compile Include="Rechnungswesen\Fee.cs" />
+    <Compile Include="Rechnungswesen\FeeList.cs" />
+    <Compile Include="Rechnungswesen\Group.cs" />
+    <Compile Include="Rechnungswesen\Insurance.cs" />
+    <Compile Include="Rechnungswesen\InsuranceList.cs" />
+    <Compile Include="Rechnungswesen\InvoiceAppointment.cs" />
+    <Compile Include="Rechnungswesen\InvoiceAutomator.cs" />
+    <Compile Include="Rechnungswesen\InvoicePrintDevice.cs" />
+    <Compile Include="Rechnungswesen\InvoiceRecipient.cs" />
+    <Compile Include="Rechnungswesen\InvoiceSelector.cs" />
+    <Compile Include="Rechnungswesen\InvoiceTreatmentDetails.cs" />
+    <Compile Include="Rechnungswesen\LinePrintDevice.cs" />
+    <Compile Include="Rechnungswesen\Treatment.cs" />
+    <Compile Include="Rechnungswesen\Item.cs" />
+    <Compile Include="Rechnungswesen\Treatments.cs" />
+    <None Include="scheduleDataSet.xsc">
+      <DependentUpon>scheduleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="scheduleDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>scheduleDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="scheduleDataSet.xss">
+      <DependentUpon>scheduleDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Write copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AntiVirus copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appointment2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back 2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar Day copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar Month copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chat copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipboard copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contacts 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contacts copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop3 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Homework copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Internet Connections 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Internet Security 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log Off copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My Computer2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My Pictures2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Doc copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictureOfPeople.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer 3 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer 4 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Properties copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rename - Edit copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Security 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Security copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spell copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop 2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tech Support copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Doc copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compose Email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="Resources\letter-5-32.png" />
+    <None Include="Properties\DataSources\HPSchedule.Datenobjekte.InvoiceItem.datasource" />
+    <None Include="Properties\DataSources\HPSchedule.Dialoge.GroupEditor.datasource" />
+    <None Include="Resources\bad24.png" />
+    <None Include="Resources\arrowRight16.png" />
+    <None Include="Resources\arrowLeft16.png" />
+    <Content Include="Resources\doctor32.ico" />
+    <None Include="Resources\good24.png" />
+    <None Include="Resources\DeleteMulti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\calendar_src%282%29\Kopie von DayView\DayView.csproj">
+      <Project>{D17A4D6A-4CAA-4470-8A19-F42463C021FD}</Project>
+      <Name>DayView</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LinePrinter\LinePrinter.csproj">
+      <Project>{1FC8E3B8-5F56-4444-B46B-163E58342967}</Project>
+      <Name>LinePrinter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

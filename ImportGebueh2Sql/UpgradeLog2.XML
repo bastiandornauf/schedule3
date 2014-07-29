@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImportGebueh2Sql">
+</Property><Property Name="Solution File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\ImportGebueh2Sql.sln">
+</Property><Property Name="User Options File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\ImportGebueh2Sql.suo">
+</Property><Property Name="Date" Value="Dienstag, 8. November 2011">
+</Property><Property Name="Time" Value="11:55">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.sln" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.suo" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql.suo">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Project file successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\ImportGebueh2Sql.csproj">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj.user" Description="Project user file successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\ImportGebueh2Sql.csproj.user">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\behandlung.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\behandlung.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\DataStorage.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\DataStorage.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\LogFile.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\LogFile.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\MySQLHelper.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\MySQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Program.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Program.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\ImportGebueh2Sql_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Settings.settings" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.resx" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Resources.resx" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\ImportGebueh2Sql\Backup1\ImportGebueh2Sql\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImportGebueh2Sql.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

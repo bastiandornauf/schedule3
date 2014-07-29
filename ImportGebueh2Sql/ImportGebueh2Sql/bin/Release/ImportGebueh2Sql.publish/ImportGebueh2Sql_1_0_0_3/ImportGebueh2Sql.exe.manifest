@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="ImportGebueh2Sql.exe" version="1.0.0.3" publicKeyToken="a5c494a4b38fe4be" language="de-DE" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ImportGebueh2Sql" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ImportGebueh2Sql.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImportGebueh2Sql.exe" size="40960">
+      <assemblyIdentity name="ImportGebueh2Sql" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bpXD67veas4o6x9+mtXkHckB3Fk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="262144">
+      <assemblyIdentity name="MySql.Data" version="5.0.3.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>a8aNWUeues2sPm58/0u0TG4Sf1o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=BASTIAN\PC Dornauf" issuerKeyHash="7cca2dbbf5c2b78f7c42eee9396957fa11744e66" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>hh2ZhXqBjqoCFV5cyhlau3B9PIw=</DigestValue></Reference></SignedInfo><SignatureValue>ks/xvxJRGlHmCkQE1K5FtcyW/JBansczF9k9QV6jQqNUIM/bwDcywVdeytCjkGTEyMdobG17rej5vsiMDDWXri4xYGAer6ToErfdcBF61Ndwi5m2mJdRV7GdfQV53jGGK/gnJjJIt4iDIqNoNUmdCPU0iP3pneD2h2n5mrWxnDQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wcACM5Cbk1QutGdPWPVd8tBGXnB7l2mO/rJMnVYxrOhA8KXlcpoNf7E7LLEHL7AX9INFUmC0/t343xnW6itfOJDUuxZ4IGwyFBpwFmjc02hTMBWJ9F8hOpHZyO7b+9Z4Aq9ubTyiE7GGq81jbcnt4jz3IES+UYZJx+YDJfWr910=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8c3c7d70bb5a19ca5c5e1502aa8e817a85991d86" Description="" Url=""><as:assemblyIdentity name="ImportGebueh2Sql.exe" version="1.0.0.3" publicKeyToken="a5c494a4b38fe4be" language="de-DE" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BASTIAN\PC Dornauf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>v6BVOM3F1hhB77CU2iNg+m1+YBc=</DigestValue></Reference></SignedInfo><SignatureValue>G7UVZxmPQOPq+yTIdmYeHCDh07Ore51nY2ArVTKwewiRRdfHiQlds+wKoZtEKcR5iXKrYUuUE+0ck/rlhklBhPrxRXbPWp5N0ks62wAmYBp9QhpG0Acy1Ey4WmuakALJX6O8U5iR4URo2B15oooA8oWMDoaUab8c70ODLfXr9DA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wcACM5Cbk1QutGdPWPVd8tBGXnB7l2mO/rJMnVYxrOhA8KXlcpoNf7E7LLEHL7AX9INFUmC0/t343xnW6itfOJDUuxZ4IGwyFBpwFmjc02hTMBWJ9F8hOpHZyO7b+9Z4Aq9ubTyiE7GGq81jbcnt4jz3IES+UYZJx+YDJfWr910=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUagAwIBAgIQ5eM+YqMVVoFCNCX8Dy+FrjAJBgUrDgMCHQUAMC8xLTArBgNVBAMeJABCAEEAUwBUAEkAQQBOAFwAUABDACAARABvAHIAbgBhAHUAZjAeFw0wNzAyMjMwOTMxMDZaFw0wODAyMjMxNTMxMDZaMC8xLTArBgNVBAMeJABCAEEAUwBUAEkAQQBOAFwAUABDACAARABvAHIAbgBhAHUAZjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwcACM5Cbk1QutGdPWPVd8tBGXnB7l2mO/rJMnVYxrOhA8KXlcpoNf7E7LLEHL7AX9INFUmC0/t343xnW6itfOJDUuxZ4IGwyFBpwFmjc02hTMBWJ9F8hOpHZyO7b+9Z4Aq9ubTyiE7GGq81jbcnt4jz3IES+UYZJx+YDJfWr910CAwEAATAJBgUrDgMCHQUAA4GBACYd3yEAeIz38zyre1c8/WRUrs+wZ2o+MvCI+BcZbNdxQtIj2LuB159oFUwGIAIv+8b3kJcNWHwaeEooc9OAgDdDRuHe1QquFeW/+YBKp5sMGV6Cg4/lsiIzTycYAiTserHRUem7IdQGjX+dv5pgOBtA7KzSr8vIly+2kbuYrS8r</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

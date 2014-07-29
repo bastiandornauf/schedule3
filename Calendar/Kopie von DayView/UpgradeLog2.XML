@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DayView">
+</Property><Property Name="Solution File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\DayView.sln">
+</Property><Property Name="User Options File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\DayView.suo">
+</Property><Property Name="Date" Value="Dienstag, 1. November 2011">
+</Property><Property Name="Time" Value="16:12">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DayView.sln" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\DayView.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DayView.suo" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\DayView.suo">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView.csproj" Description="Project file successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\DayView.csproj">
+</Event><Event ErrorLevel="0" Project="DayView" Source="AbstractRenderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\AbstractRenderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="Appointment.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\Appointment.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="AppointmentEventArgs.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\AppointmentEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\DayView.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DrawTool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\DrawTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="ITool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\ITool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="NewAppointmentEvent.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\NewAppointmentEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="Office12Renderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\Office12Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="Office11Renderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\Office11Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="ResolveAppointmentsEvent.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\ResolveAppointmentsEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="Selection.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\Selection.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="SelectionTool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\Backup1\SelectionTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DayView" Source="DayView.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DayView.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DayView.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

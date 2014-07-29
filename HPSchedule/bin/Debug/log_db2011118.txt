@@ -1,0 +1,1 @@
+08.11.2011 14:20:39 ==>  ERROR INSERT INTO treatment (patientId, diagnosis, healerId, roomId) VALUES (3700,'',0,0); --- NewTreatment: Cannot add or update a child row: a foreign key constraint fails (`schedule`.`treatment`, CONSTRAINT `fk_treatment_healer1` FOREIGN KEY (`healerId`) REFERENCES `healer` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)

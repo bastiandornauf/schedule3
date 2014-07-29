@@ -1,0 +1,57 @@
+*START_GEBUEH*
+*START_ABRART*
+5
+Beihilfe
+Frei
+post
+00
+Einzel
+*END_ABRART*
+*START_EINTRAEGE*
+27
+1.0.0#Eingehende Untersuchung von Rücken und Wirbelsäule#12,30 EUR/11,00 EUR/11,08 EUR/0,00 EUR/11,00 EUR
+4.0.0#Eingehende Beratung von mind. 15 Min. einschließlich einer Untersuchung#16,39 EUR/45,00 EUR/16,36 EUR/0,00 EUR/45,00 EUR
+8.0.0#Behandlung an Sonn- und Feiertagen#15,40 EUR/15,00 EUR/15,40 EUR/0,00 EUR/15,00 EUR
+9.1.0#Hausbesuch einschließlich Beratung#21,50 EUR/29,50 EUR/21,47 EUR/0,00 EUR/29,50 EUR
+9.2.0#Hausbesuch einschließlich Beratung in dringenden Fällen (Eilbesuch, sofort ausgeführt)#24,00 EUR/32,00 EUR/24,00 EUR/0,00 EUR/32,00 EUR
+9.3.0#Hausbesuch einschließlich Beratung bei Nacht und an Sonn- und Feiertagen#27,50 EUR/36,50 EUR/27,10 EUR/0,00 EUR/36,50 EUR
+10.1.0#Wegegeld bis 2 Kilometer für jede angefangene Stunde am Tag#3,58 EUR/3,58 EUR/3,58 EUR/0,00 EUR/3,58 EUR
+10.7.0#Wegegeld für Fernstrecke#26,00 EUR/0,00 EUR/0,00 EUR/0,00 EUR/0,00 EUR
+11.2.0#Befundbericht/Gutachten#10,30 EUR/10,30 EUR/10,30 EUR/0,00 EUR/15,00 EUR
+14.1.0#Untersuchung Augenvordergrund#10,00 EUR/10,00 EUR/10,00 EUR/0,00 EUR/10,00 EUR
+20.3.0#Bindegewebsmassage#6,82 EUR/6,00 EUR/5,69 EUR/0,00 EUR/6,00 EUR
+20.5.0#Massage 30 Minuten#28,00 EUR/28,00 EUR/28,00 EUR/0,00 EUR/28,00 EUR
+20.6.0#Lymphdrainage ca. 30 Min.#30,00 EUR/30,00 EUR/30,00 EUR/0,00 EUR/30,00 EUR
+20.6.0#Lymphdrainage ca. 1 Std.#45,00 EUR/45,00 EUR/45,00 EUR/0,00 EUR/45,00 EUR
+20.8.0#Einreibungen in die Haut#1,66 EUR/1,00 EUR/3,93 EUR/0,00 EUR/1,00 EUR
+21.1.0#Akupunktur zur Schmerzbehandlung#10,30 EUR/8,00 EUR/10,23 EUR/0,00 EUR/10,00 EUR
+21.1.1#klassische chinesische Akupunktur#26,00 EUR/26,00 EUR/26,00 EUR/0,00 EUR/26,00 EUR
+21.2.0#Elektroakupunktur#10,00 EUR/10,00 EUR/10,00 EUR/0,00 EUR/10,00 EUR
+25.2.0#Injektion, intramuskulär#5,20 EUR/5,00 EUR/4,43 EUR/0,00 EUR/5,00 EUR
+25.6.0#Neuraltherapie nach Hunecke#7,70 EUR/7,00 EUR/7,67 EUR/0,00 EUR/7,00 EUR
+27.3.0#Setzen von Schröpfköpfen, unblutig#8,00 EUR/8,00 EUR/8,00 EUR/0,00 EUR/15,00 EUR
+28.2.0#Paravertebrale Infiltrationen#10,30 EUR/6,00 EUR/10,23 EUR/0,00 EUR/6,00 EUR
+34.2.0#Gezielter chiropraktischer Eingriff an der Wirbelsäule#15,40 EUR/15,00 EUR/15,34 EUR/0,00 EUR/15,50 EUR
+35.3.0#Osteopathische Behandlung des Fußes#15,40 EUR/15,00 EUR/15,40 EUR/0,00 EUR/15,00 EUR
+35.4.0#Osteopathische Behandlung der Kniegelenke#5,20 EUR/6,00 EUR/5,11 EUR/0,00 EUR/6,00 EUR
+39.12.0#Niederfrequente Reizstromtherapie#5,04 EUR/4,00 EUR/4,20 EUR/0,00 EUR/5,00 EUR
+39.13.0#Ultraschall-Behandlung#5,00 EUR/5,00 EUR/5,00 EUR/0,00 EUR/5,00 EUR
+99.0.0#keine Berechnung#0,00 EUR/0,00 EUR/0,00 EUR/0,00 EUR/0,00 EUR
+*END_EINTRAEGE*
+*START_GRUPPEN*
+12
+A#WS standard#1.0.0; 20.8.0; 21.1.0; 28.2.0; 34.2.0; 39.12.0
+B#WS groß#1.0.0; 20.3.0; 20.8.0; 21.1.0; 25.2.0; 25.6.0; 28.2.0; 34.2.0; 39.12.0
+C#WS klein#21.1.0; 21.2.0; 28.2.0; 34.2.0
+D#WS mini#34.2.0; 1.0.0
+E#WS 120DM#1.0.0; 20.3.0; 20.8.0; 21.1.0; 25.6.0; 28.2.0; 34.2.0
+F#jk#
+G#WS 0#99.0.0
+H#Knie#1.0.0; 21.1.0; 35.4.0
+I#Massage#20.5.0
+J#WS standard ohne Inj.#1.0.0; 20.8.0; 21.1.0; 34.2.0; 39.12.0
+K#WS standard ohne Öl#1.0.0; 21.1.0; 28.2.0; 34.2.0; 39.12.0
+L#WS standard ohne Inj ohne Öl#1.0.0; 21.1.0; 34.2.0; 39.12.0
+M#WS Standard ohne Elektro#1.0.0; 20.8.0; 28.2.0; 34.2.0; 21.1.0
+*END_GRUPPEN*
+*END_GEBUEH*

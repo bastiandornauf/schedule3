@@ -1,0 +1,10 @@
+bin\Debug\Calendar.exe
+bin\Debug\Calendar.pdb
+bin\Debug\Calendar.DayView.dll
+bin\Debug\Calendar.DayView.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calendar.Form1.resources
+obj\Debug\Calendar.Properties.Resources.resources
+obj\Debug\Calendar.csproj.GenerateResource.Cache
+obj\Debug\Calendar.exe
+obj\Debug\Calendar.pdb

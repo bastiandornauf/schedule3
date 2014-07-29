@@ -1,0 +1,10 @@
+bin\Debug\Calendar.DayView.dll
+bin\Debug\Calendar.DayView.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calendar.DayView.dll
+obj\Debug\Calendar.DayView.pdb
+bin\Release\Calendar.DayView.dll
+bin\Release\Calendar.DayView.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Calendar.DayView.dll
+obj\Release\Calendar.DayView.pdb

@@ -1,0 +1,208 @@
+17.02.2007 12:37:48 ==>  MSG   Beginne GebüH-Import.
+17.02.2007 12:38:19 ==>  MSG   Beginne Termine-Import.
+17.02.2007 12:38:19 ==>  MSG   Beginne Stammdaten-Import.
+17.02.2007 12:38:19 ==>  MSG   Import fertig.
+17.02.2007 12:38:21 ==>  MSG   Beginn Export.
+17.02.2007 12:38:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+17.02.2007 12:38:23 ==>  ERROR Unbekannte Gruppe '' bei Patient 1631
+17.02.2007 12:38:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+17.02.2007 12:38:23 ==>  ERROR Unbekannte Gruppe '' bei Patient 1631
+17.02.2007 12:38:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1626
+17.02.2007 12:38:24 ==>  ERROR Unbekannte Gruppe '' bei Patient 1626
+17.02.2007 12:38:24 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+17.02.2007 12:38:24 ==>  ERROR Unbekannte Gruppe '' bei Patient 1631
+17.02.2007 12:38:24 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+17.02.2007 12:38:24 ==>  ERROR Unbekannte Gruppe '' bei Patient 1631
+17.02.2007 12:38:24 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1626
+17.02.2007 12:38:24 ==>  ERROR Unbekannte Gruppe '' bei Patient 1626
+17.02.2007 12:38:24 ==>  ERROR Kein Eintrag für Behandlung bei Patient 2
+17.02.2007 12:38:25 ==>  ERROR Unbekannte Gruppe '' bei Patient 2
+17.02.2007 12:38:25 ==>  ERROR Kein Eintrag für Behandlung bei Patient 3
+17.02.2007 12:38:27 ==>  ERROR Unbekannte Gruppe '' bei Patient 3
+17.02.2007 12:38:27 ==>  ERROR Kein Eintrag für Behandlung bei Patient 3
+17.02.2007 12:38:27 ==>  ERROR Unbekannte Gruppe '' bei Patient 3
+17.02.2007 12:38:27 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Unbekannte Gruppe '' bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Unbekannte Gruppe '' bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Unbekannte Gruppe '' bei Patient 5
+17.02.2007 12:38:36 ==>  ERROR Kein Eintrag für Behandlung bei Patient 6
+17.02.2007 12:38:37 ==>  ERROR Unbekannte Gruppe '' bei Patient 6
+17.02.2007 12:38:37 ==>  ERROR Kein Eintrag für Behandlung bei Patient 7
+17.02.2007 12:38:37 ==>  ERROR Unbekannte Gruppe '' bei Patient 7
+17.02.2007 12:38:37 ==>  ERROR Kein Eintrag für Behandlung bei Patient 8
+17.02.2007 12:38:38 ==>  ERROR Unbekannte Gruppe '' bei Patient 8
+17.02.2007 12:38:38 ==>  ERROR Kein Eintrag für Behandlung bei Patient 9
+17.02.2007 12:38:38 ==>  ERROR Unbekannte Gruppe '' bei Patient 9
+17.02.2007 12:38:38 ==>  ERROR Kein Eintrag für Behandlung bei Patient 10
+17.02.2007 12:38:38 ==>  ERROR Unbekannte Gruppe '' bei Patient 10
+17.02.2007 12:38:38 ==>  ERROR Kein Eintrag für Behandlung bei Patient 14
+17.02.2007 12:38:38 ==>  ERROR Unbekannte Gruppe '' bei Patient 14
+17.02.2007 12:38:38 ==>  ERROR Kein Eintrag für Behandlung bei Patient 15
+17.02.2007 12:38:39 ==>  ERROR Unbekannte Gruppe '' bei Patient 15
+17.02.2007 12:38:39 ==>  ERROR Kein Eintrag für Behandlung bei Patient 16
+17.02.2007 12:38:39 ==>  ERROR Unbekannte Gruppe '' bei Patient 16
+17.02.2007 12:38:39 ==>  ERROR Kein Eintrag für Behandlung bei Patient 17
+17.02.2007 12:38:39 ==>  ERROR Unbekannte Gruppe '' bei Patient 17
+17.02.2007 12:38:39 ==>  ERROR Kein Eintrag für Behandlung bei Patient 18
+17.02.2007 12:38:41 ==>  ERROR Unbekannte Gruppe '' bei Patient 18
+17.02.2007 12:38:41 ==>  ERROR Kein Eintrag für Behandlung bei Patient 21
+17.02.2007 12:38:42 ==>  ERROR Unbekannte Gruppe '' bei Patient 21
+17.02.2007 12:38:42 ==>  ERROR Kein Eintrag für Behandlung bei Patient 22
+17.02.2007 12:38:42 ==>  ERROR Unbekannte Gruppe '' bei Patient 22
+17.02.2007 12:38:42 ==>  ERROR Kein Eintrag für Behandlung bei Patient 28
+17.02.2007 12:38:43 ==>  ERROR Unbekannte Gruppe '' bei Patient 28
+17.02.2007 12:38:43 ==>  ERROR Kein Eintrag für Behandlung bei Patient 29
+17.02.2007 12:38:45 ==>  ERROR Unbekannte Gruppe '' bei Patient 29
+17.02.2007 12:38:45 ==>  ERROR Kein Eintrag für Behandlung bei Patient 29
+17.02.2007 12:38:45 ==>  ERROR Unbekannte Gruppe '' bei Patient 29
+17.02.2007 12:38:45 ==>  ERROR Kein Eintrag für Behandlung bei Patient 31
+17.02.2007 12:38:46 ==>  ERROR Unbekannte Gruppe '' bei Patient 31
+17.02.2007 12:38:46 ==>  ERROR Kein Eintrag für Behandlung bei Patient 32
+17.02.2007 12:38:54 ==>  ERROR Unbekannte Gruppe '' bei Patient 32
+17.02.2007 12:38:54 ==>  ERROR Kein Eintrag für Behandlung bei Patient 33
+17.02.2007 12:38:55 ==>  ERROR Unbekannte Gruppe '' bei Patient 33
+17.02.2007 12:38:55 ==>  ERROR Kein Eintrag für Behandlung bei Patient 34
+17.02.2007 12:39:07 ==>  ERROR Unbekannte Gruppe '' bei Patient 34
+17.02.2007 12:39:07 ==>  ERROR Kein Eintrag für Behandlung bei Patient 35
+17.02.2007 12:39:09 ==>  ERROR Unbekannte Gruppe '' bei Patient 35
+17.02.2007 12:39:09 ==>  ERROR Kein Eintrag für Behandlung bei Patient 38
+17.02.2007 12:39:21 ==>  ERROR Unbekannte Gruppe '' bei Patient 38
+17.02.2007 12:39:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 39
+17.02.2007 12:39:22 ==>  ERROR Unbekannte Gruppe '' bei Patient 39
+17.02.2007 12:39:22 ==>  ERROR Kein Eintrag für Behandlung bei Patient 40
+17.02.2007 12:39:25 ==>  ERROR Unbekannte Gruppe '' bei Patient 40
+17.02.2007 12:39:25 ==>  ERROR Kein Eintrag für Behandlung bei Patient 41
+17.02.2007 12:39:28 ==>  ERROR Unbekannte Gruppe '' bei Patient 41
+17.02.2007 12:39:28 ==>  ERROR Kein Eintrag für Behandlung bei Patient 42
+17.02.2007 12:39:42 ==>  ERROR Unbekannte Gruppe '' bei Patient 42
+17.02.2007 12:39:42 ==>  ERROR Kein Eintrag für Behandlung bei Patient 43
+17.02.2007 12:39:57 ==>  ERROR Unbekannte Gruppe '' bei Patient 43
+17.02.2007 12:39:57 ==>  ERROR Kein Eintrag für Behandlung bei Patient 44
+17.02.2007 12:39:59 ==>  ERROR Unbekannte Gruppe '' bei Patient 44
+17.02.2007 12:39:59 ==>  ERROR Kein Eintrag für Behandlung bei Patient 45
+17.02.2007 12:39:59 ==>  ERROR Unbekannte Gruppe '' bei Patient 45
+17.02.2007 12:39:59 ==>  ERROR Kein Eintrag für Behandlung bei Patient 53
+17.02.2007 12:40:37 ==>  ERROR Unbekannte Gruppe '' bei Patient 53
+17.02.2007 12:40:37 ==>  MSG   Export fertig.
+16.03.2009 15:29:46 ==>  MSG   Beginne GebüH-Import.
+16.03.2009 15:30:25 ==>  MSG   Beginne Termine-Import.
+16.03.2009 15:30:25 ==>  MSG   Beginne GebüH-Import.
+16.03.2009 15:30:46 ==>  MSG   Beginne Termine-Import.
+16.03.2009 21:11:43 ==>  MSG   Beginne GebüH-Import.
+16.03.2009 21:12:13 ==>  MSG   Beginne Termine-Import.
+16.03.2009 21:12:13 ==>  MSG   Beginne Stammdaten-Import.
+16.03.2009 21:12:13 ==>  MSG   Import fertig.
+16.03.2009 21:12:17 ==>  MSG   Beginn Export.
+16.03.2009 21:12:17 ==>  ERROR Kein Eintrag für Behandlung bei Patient 2261
+16.03.2009 21:12:18 ==>  ERROR Kein Eintrag für Behandlung bei Patient 2
+16.03.2009 21:12:19 ==>  ERROR Kein Eintrag für Behandlung bei Patient 3
+16.03.2009 21:12:19 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 6
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 7
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 8
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 9
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 10
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 14
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 15
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 16
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 17
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 18
+16.03.2009 21:12:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 21
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 22
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 28
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 29
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 31
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 32
+16.03.2009 21:12:21 ==>  ERROR Kein Eintrag für Behandlung bei Patient 33
+16.03.2009 21:12:22 ==>  ERROR Kein Eintrag für Behandlung bei Patient 34
+16.03.2009 21:12:22 ==>  ERROR Kein Eintrag für Behandlung bei Patient 35
+16.03.2009 21:12:22 ==>  ERROR Kein Eintrag für Behandlung bei Patient 38
+16.03.2009 21:12:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 39
+16.03.2009 21:12:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 40
+16.03.2009 21:12:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 41
+16.03.2009 21:12:23 ==>  ERROR Kein Eintrag für Behandlung bei Patient 42
+16.03.2009 21:12:24 ==>  ERROR Kein Eintrag für Behandlung bei Patient 43
+16.03.2009 21:12:25 ==>  ERROR Kein Eintrag für Behandlung bei Patient 44
+16.03.2009 21:12:25 ==>  ERROR Kein Eintrag für Behandlung bei Patient 45
+16.03.2009 21:12:25 ==>  ERROR Kein Eintrag für Behandlung bei Patient 53
+16.03.2009 21:12:27 ==>  ERROR You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Oreal', 1, 2, '')' at line 1: >>INSERT INTO patient (dateOfBirth, comments, male, title, firstname, lastname, occupation, insuranceId, methodOfPayment, publiccomments) VALUES ('1980-04-08 00:00:00', 'M', false, 'Frau', 'Tanja', 'Koch', 'Aussendienst L'Oreal', 1, 2, '');<<
+16.03.2009 21:14:02 ==>  MSG   Export fertig.
+08.11.2011 12:47:59 ==>  MSG   Beginne GebüH-Import.
+08.11.2011 12:48:18 ==>  MSG   Beginne Termine-Import.
+08.11.2011 12:48:18 ==>  MSG   Beginne Stammdaten-Import.
+08.11.2011 12:48:18 ==>  MSG   Import fertig.
+08.11.2011 12:48:19 ==>  MSG   Beginn Export.
+08.11.2011 12:48:19 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+08.11.2011 12:48:29 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1626
+08.11.2011 12:48:32 ==>  ERROR Kein Eintrag für Behandlung bei Patient 2
+08.11.2011 12:48:37 ==>  ERROR Kein Eintrag für Behandlung bei Patient 3
+08.11.2011 12:48:40 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+08.11.2011 12:48:54 ==>  ERROR Kein Eintrag für Behandlung bei Patient 6
+08.11.2011 12:48:55 ==>  ERROR Kein Eintrag für Behandlung bei Patient 7
+08.11.2011 12:48:56 ==>  ERROR Kein Eintrag für Behandlung bei Patient 8
+08.11.2011 12:48:57 ==>  ERROR Kein Eintrag für Behandlung bei Patient 9
+08.11.2011 12:48:57 ==>  ERROR Kein Eintrag für Behandlung bei Patient 10
+08.11.2011 12:48:58 ==>  ERROR Kein Eintrag für Behandlung bei Patient 14
+08.11.2011 12:48:59 ==>  ERROR Kein Eintrag für Behandlung bei Patient 15
+08.11.2011 12:49:00 ==>  ERROR Kein Eintrag für Behandlung bei Patient 16
+08.11.2011 12:49:00 ==>  ERROR Kein Eintrag für Behandlung bei Patient 17
+08.11.2011 12:49:01 ==>  ERROR Kein Eintrag für Behandlung bei Patient 18
+08.11.2011 12:49:06 ==>  ERROR Kein Eintrag für Behandlung bei Patient 21
+08.11.2011 12:49:08 ==>  ERROR Kein Eintrag für Behandlung bei Patient 22
+08.11.2011 12:49:08 ==>  ERROR Kein Eintrag für Behandlung bei Patient 28
+08.11.2011 12:49:11 ==>  ERROR Kein Eintrag für Behandlung bei Patient 29
+08.11.2011 12:49:15 ==>  ERROR Kein Eintrag für Behandlung bei Patient 31
+08.11.2011 12:49:17 ==>  ERROR Kein Eintrag für Behandlung bei Patient 32
+08.11.2011 12:49:27 ==>  ERROR Kein Eintrag für Behandlung bei Patient 33
+08.11.2011 12:49:30 ==>  ERROR Kein Eintrag für Behandlung bei Patient 34
+08.11.2011 12:49:43 ==>  ERROR Kein Eintrag für Behandlung bei Patient 35
+08.11.2011 12:49:47 ==>  ERROR Kein Eintrag für Behandlung bei Patient 38
+08.11.2011 12:49:57 ==>  ERROR Kein Eintrag für Behandlung bei Patient 39
+08.11.2011 12:49:58 ==>  ERROR Kein Eintrag für Behandlung bei Patient 40
+08.11.2011 12:50:01 ==>  ERROR Kein Eintrag für Behandlung bei Patient 41
+08.11.2011 12:50:03 ==>  ERROR Kein Eintrag für Behandlung bei Patient 42
+08.11.2011 12:50:15 ==>  ERROR Kein Eintrag für Behandlung bei Patient 43
+08.11.2011 12:50:26 ==>  ERROR Kein Eintrag für Behandlung bei Patient 44
+08.11.2011 12:50:28 ==>  ERROR Kein Eintrag für Behandlung bei Patient 45
+08.11.2011 12:50:29 ==>  ERROR Kein Eintrag für Behandlung bei Patient 53
+08.11.2011 13:12:52 ==>  MSG   Beginne GebüH-Import.
+08.11.2011 13:24:19 ==>  MSG   Beginne Termine-Import.
+08.11.2011 13:24:19 ==>  MSG   Beginne Stammdaten-Import.
+08.11.2011 13:24:19 ==>  MSG   Import fertig.
+08.11.2011 13:24:20 ==>  MSG   Beginn Export.
+08.11.2011 13:24:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1631
+08.11.2011 13:24:33 ==>  ERROR Kein Eintrag für Behandlung bei Patient 1626
+08.11.2011 13:24:38 ==>  ERROR Kein Eintrag für Behandlung bei Patient 2
+08.11.2011 13:24:45 ==>  ERROR Kein Eintrag für Behandlung bei Patient 3
+08.11.2011 13:24:47 ==>  ERROR Kein Eintrag für Behandlung bei Patient 5
+08.11.2011 13:25:00 ==>  ERROR Kein Eintrag für Behandlung bei Patient 6
+08.11.2011 13:25:01 ==>  ERROR Kein Eintrag für Behandlung bei Patient 7
+08.11.2011 13:25:02 ==>  ERROR Kein Eintrag für Behandlung bei Patient 8
+08.11.2011 13:25:04 ==>  ERROR Kein Eintrag für Behandlung bei Patient 9
+08.11.2011 13:25:04 ==>  ERROR Kein Eintrag für Behandlung bei Patient 10
+08.11.2011 13:25:05 ==>  ERROR Kein Eintrag für Behandlung bei Patient 14
+08.11.2011 13:25:06 ==>  ERROR Kein Eintrag für Behandlung bei Patient 15
+08.11.2011 13:25:07 ==>  ERROR Kein Eintrag für Behandlung bei Patient 16
+08.11.2011 13:25:07 ==>  ERROR Kein Eintrag für Behandlung bei Patient 17
+08.11.2011 13:25:08 ==>  ERROR Kein Eintrag für Behandlung bei Patient 18
+08.11.2011 13:25:12 ==>  ERROR Kein Eintrag für Behandlung bei Patient 21
+08.11.2011 13:25:13 ==>  ERROR Kein Eintrag für Behandlung bei Patient 22
+08.11.2011 13:25:13 ==>  ERROR Kein Eintrag für Behandlung bei Patient 28
+08.11.2011 13:25:16 ==>  ERROR Kein Eintrag für Behandlung bei Patient 29
+08.11.2011 13:25:18 ==>  ERROR Kein Eintrag für Behandlung bei Patient 31
+08.11.2011 13:25:20 ==>  ERROR Kein Eintrag für Behandlung bei Patient 32
+08.11.2011 13:25:27 ==>  ERROR Kein Eintrag für Behandlung bei Patient 33
+08.11.2011 13:25:29 ==>  ERROR Kein Eintrag für Behandlung bei Patient 34
+08.11.2011 13:25:39 ==>  ERROR Kein Eintrag für Behandlung bei Patient 35
+08.11.2011 13:25:41 ==>  ERROR Kein Eintrag für Behandlung bei Patient 38
+08.11.2011 13:25:54 ==>  ERROR Kein Eintrag für Behandlung bei Patient 39
+08.11.2011 13:25:55 ==>  ERROR Kein Eintrag für Behandlung bei Patient 40
+08.11.2011 13:26:00 ==>  ERROR Kein Eintrag für Behandlung bei Patient 41
+08.11.2011 13:26:03 ==>  ERROR Kein Eintrag für Behandlung bei Patient 42
+08.11.2011 13:26:17 ==>  ERROR Kein Eintrag für Behandlung bei Patient 43
+08.11.2011 13:26:32 ==>  ERROR Kein Eintrag für Behandlung bei Patient 44
+08.11.2011 13:26:34 ==>  ERROR Kein Eintrag für Behandlung bei Patient 45
+08.11.2011 13:26:34 ==>  ERROR Kein Eintrag für Behandlung bei Patient 53
+08.11.2011 13:26:56 ==>  MSG   Export fertig.

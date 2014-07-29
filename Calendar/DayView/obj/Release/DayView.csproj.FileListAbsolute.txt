@@ -1,0 +1,5 @@
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\DayView\bin\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\DayView\bin\Release\Calendar.DayView.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\DayView\obj\Release\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\DayView\obj\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\DayView\obj\Release\Calendar.DayView.pdb

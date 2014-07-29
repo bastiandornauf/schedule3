@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Calendar.AbstractRenderer" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACQQQAAgAAAAAAEAAAAsAQEAAAQAgBDACBAEI=</HashCode>
+      <FileName>AbstractRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.DVAppointment" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABCgEAgQCEAIEAIICIBCAAiAAAAQICQAAAAgEACA4A=</HashCode>
+      <FileName>Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.AppointmentEventArgs" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppointmentEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.Cal" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DayView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.DayView" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Z0GCIkAGLhIA5zKCCERDQCgGJdlhQghZKQjFcXr+0Iw=</HashCode>
+      <FileName>DayView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.DrawTool" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBkIAAAAAAAAAAAAAEAAABAAAAACAAIA=</HashCode>
+      <FileName>DrawTool.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Calendar.NewAppointmentEventArgs" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAEAABAQAAAAgAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>NewAppointmentEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.Office11Renderer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAEAAAAEAAAAAAAAAACAAAAEI=</HashCode>
+      <FileName>Office11Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.Office12Renderer" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAgAAAAAAEAAAAIAQAAAEQAgBDACBAAI=</HashCode>
+      <FileName>Office12Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.ResolveAppointmentsEventArgs" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAEAAAAAABAAAAAAgQAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ResolveAppointmentsEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar.SelectionTool" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAIAAABEKAAEAAAAAAAAAAEAAAAAAAAECAAIA=</HashCode>
+      <FileName>SelectionTool.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Calendar.ITool" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABEAAAAAAAAAAAAAAEAAAAAAAAACAAIA=</HashCode>
+      <FileName>ITool.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Calendar.SelectionType" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Selection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Calendar.NewAppointmentEventHandler" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewAppointmentEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Calendar.ResolveAppointmentsEventHandler" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResolveAppointmentsEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

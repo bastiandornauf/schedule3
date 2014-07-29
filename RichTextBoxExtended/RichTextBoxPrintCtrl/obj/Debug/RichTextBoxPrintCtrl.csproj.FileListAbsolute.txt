@@ -1,0 +1,5 @@
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxPrintCtrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb

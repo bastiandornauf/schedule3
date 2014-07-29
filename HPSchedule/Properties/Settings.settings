@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HPSchedule.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KalendarZeilenhöhe" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="dbLocalServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="dbLocalUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bdornauf</Value>
+    </Setting>
+    <Setting Name="dbLocalPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">poly2312</Value>
+    </Setting>
+    <Setting Name="dbLocalDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">schedule</Value>
+    </Setting>
+    <Setting Name="dbRemoteServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mysql.bastian-dornauf.de</Value>
+    </Setting>
+    <Setting Name="dbRemoteUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">db38884_6</Value>
+    </Setting>
+    <Setting Name="dbRemotePassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YoojsS&amp;&amp;Hqf1</Value>
+    </Setting>
+    <Setting Name="dbRemoteDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">db38886_6</Value>
+    </Setting>
+    <Setting Name="useRemoteDatabase" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="showDaysInDayview" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="pathToInvoiceFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\bdornauf\Desktop\invoices</Value>
+    </Setting>
+    <Setting Name="scheduleConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=localhost;User Id=bdornauf;password=poly2312;Persist Security Info=True;database=schedule&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=localhost;User Id=bdornauf;password=poly2312;Persist Security Info=True;database=schedule</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

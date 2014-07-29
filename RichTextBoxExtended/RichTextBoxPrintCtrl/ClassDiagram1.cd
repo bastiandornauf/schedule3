@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RichTextBoxPrintCtrl.RichTextBoxPrintCtrl">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Struct Name="RichTextBoxPrintCtrl.RichTextBoxPrintCtrl.RECT" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="RichTextBoxPrintCtrl.RichTextBoxPrintCtrl.CHARRANGE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="RichTextBoxPrintCtrl.RichTextBoxPrintCtrl.FORMATRANGE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAEAAFAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

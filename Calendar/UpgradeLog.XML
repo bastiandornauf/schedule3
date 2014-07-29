@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calendar">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Calendar.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Calendar.suo">
+</Property><Property Name="Date" Value="Montag, 16. März 2009">
+</Property><Property Name="Time" Value="12:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.suo" Description="Datei wurde erfolgreich als &quot;C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Projektdatei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Calendar.csproj">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Program.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Program.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Settings.settings" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.resx" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Resources.resx" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\Calendar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Projektdatei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\DayView.csproj">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\AbstractRenderer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\AbstractRenderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Appointment.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\Appointment.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\AppointmentEventArgs.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\AppointmentEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\DayView.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DrawTool.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\DrawTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\ITool.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\ITool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\NewAppointmentEvent.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\NewAppointmentEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Office12Renderer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\Office12Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Office11Renderer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\Office11Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\ResolveAppointmentsEvent.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\ResolveAppointmentsEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Selection.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\Selection.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\SelectionTool.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Backup\DayView\SelectionTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="DayView" Source="DayView\DayView.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Calendar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

@@ -1,0 +1,121 @@
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.config
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.manifest
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\HPSchedule.application
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\HPSchedule.pdb
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.dll
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\MySql.Data.dll
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.pdb
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\ResolveAssemblyReference.cache
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AboutForm.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskDoubleForm.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AskNumericForm.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskStringForm.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.ContactEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AddressEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.GroupEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ItemEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.OptionenEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDatabaseConnection.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDayView.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelHealer.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ShowFees.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatedWithEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatmentEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.HPSchedule.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.PatientEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.InvoiceGroupAndItemEditor.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Properties.Resources.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.SuchePatientForm.resources
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.TrustInfo.xml
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe.manifest
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.application
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe
+D:\Eigene Dateien\Visual Studio 2005\Projects\HPSchedule\HPSchedule\obj\Debug\HPSchedule.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.config
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.manifest
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\HPSchedule.application
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\HPSchedule.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AboutForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskDoubleForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AskNumericForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskStringForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.ContactEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AddressEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.GroupEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ItemEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.OptionenEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDatabaseConnection.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDayView.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelHealer.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ShowFees.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatedWithEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatmentEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.HPSchedule.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.PatientEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.InvoiceGroupAndItemEditor.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Properties.Resources.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.SuchePatientForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.csproj.GenerateResource.Cache
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.TrustInfo.xml
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe.manifest
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.application
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AffirmApointmentsForm.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\MySql.Data.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ShowAppointmentsToInvoice.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TestRechnungsdruck.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.InvoicePrintingDlg.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.InvoicePrinter.resources
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\HPSchedule\HPSchedule\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AboutForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AffirmApointmentsForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskDoubleForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AskNumericForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskStringForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.ContactEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.AddressEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.GroupEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.InvoicePrinter.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.InvoicePrintingDlg.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ItemEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.OptionenEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDatabaseConnection.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelDayView.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.Optionen.PanelHealer.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ShowAppointmentsToInvoice.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.ShowFees.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TestRechnungsdruck.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatedWithEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.TreatmentEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.HPSchedule.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.PatientEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.InvoiceGroupAndItemEditor.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Properties.Resources.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.SuchePatientForm.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.config
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe.manifest
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\HPSchedule.application
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\HPSchedule.exe
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\HPSchedule.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\Calendar.DayView.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.TrustInfo.xml
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe.manifest
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.application
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.exe
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskDateTime.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\LinePrinter.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\bin\Debug\LinePrinter.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\HPSchedule\obj\Debug\HPSchedule.Dialoge.AskBoolean.resources

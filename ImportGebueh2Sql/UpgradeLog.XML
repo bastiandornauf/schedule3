@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImportGebueh2Sql">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\ImportGebueh2Sql.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\ImportGebueh2Sql.suo">
+</Property><Property Name="Date" Value="Mittwoch, 18. März 2009">
+</Property><Property Name="Time" Value="23:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.suo" Description="Datei wurde erfolgreich als &quot;C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Projektdatei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\ImportGebueh2Sql.csproj">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\ImportGebueh2Sql.csproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\behandlung.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\behandlung.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\DataStorage.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\DataStorage.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\LogFile.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\LogFile.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\MySQLHelper.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\MySQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Program.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Program.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql_TemporaryKey.pfx" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\ImportGebueh2Sql_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Settings.settings" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Form1.resx" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\Properties\Resources.resx" Description="Datei erfolgreich gesichert als C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\ImportGebueh2Sql\Backup\ImportGebueh2Sql\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImportGebueh2Sql.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="ImportGebueh2Sql.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImportGebueh2Sql" Source="ImportGebueh2Sql\ImportGebueh2Sql.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+01.11.2011 17:23:45 ==>  ERROR SELECT * FROM dayview WHERE startDate BETWEEN '2011-10-31 00:00:00' AND '2011-11-05 00:00:00'; --- DoDatabaseMagic::GetAppointments:  Access denied for user 'bdornauf'@'localhost' (using password: YES)
+01.11.2011 17:30:09 ==>  ERROR SELECT * FROM dayview WHERE startDate BETWEEN '2011-10-31 00:00:00' AND '2011-11-05 00:00:00'; --- DoDatabaseMagic::GetAppointments:  Access denied for user 'bdornauf'@'localhost' (using password: YES)
+01.11.2011 17:32:36 ==>  ERROR SELECT * FROM dayview WHERE startDate BETWEEN '2011-10-31 00:00:00' AND '2011-11-05 00:00:00'; --- DoDatabaseMagic::GetAppointments:  Access denied for user 'bdornauf'@'localhost' (using password: YES)
+01.11.2011 17:33:43 ==>  ERROR SELECT * FROM dayview WHERE startDate BETWEEN '2011-10-31 00:00:00' AND '2011-11-05 00:00:00'; --- DoDatabaseMagic::GetAppointments:  Access denied for user 'bdornauf'@'localhost' (using password: YES)
+01.11.2011 18:13:14 ==>  ERROR SELECT * FROM appointmentsForInvoice  ORDER BY patientId; --- Rechnungswese.AppointmentsForInvoice->LoadFromDatabase(): Table 'schedule.appointmentsforinvoice' doesn't exist
+01.11.2011 21:20:44 ==>  ERROR SELECT * FROM appointmentsForInvoice  ORDER BY patientId; --- Rechnungswese.AppointmentsForInvoice->LoadFromDatabase(): Table 'schedule.appointmentsforinvoice' doesn't exist

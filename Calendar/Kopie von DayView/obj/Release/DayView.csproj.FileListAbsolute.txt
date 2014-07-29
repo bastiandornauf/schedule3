@@ -1,0 +1,10 @@
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Kopie von DayView\bin\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Kopie von DayView\bin\Release\Calendar.DayView.pdb
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Kopie von DayView\obj\Release\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Kopie von DayView\obj\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\calendar_src(2)\Kopie von DayView\obj\Release\Calendar.DayView.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\bin\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\bin\Release\Calendar.DayView.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\obj\Release\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\obj\Release\Calendar.DayView.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Kopie von DayView\obj\Release\Calendar.DayView.pdb

@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HPSchedule.Datenobjekte.Accounting" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAEQCGAEAAgABAABAAAQABAEAAAIAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\Accounting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.AffirmationAwaitingAppointment" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIEAAECAAABAAAgBEAEAAAAAAQAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Datenobjekte\AffirmationAwaitingAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Fee" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAgAAAAICBAAAQgAAAAAAIAAAAAgA=</HashCode>
+      <FileName>Datenobjekte\Fee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Group" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAASABAEAAgAAAABAAAQAAIAAAAIAAAAAgQ=</HashCode>
+      <FileName>Datenobjekte\Gruppe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Healer" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAUAACAEAgAgAAAAgA=</HashCode>
+      <FileName>Datenobjekte\Healer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Insurance" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAQABAAAAAAAAABAAAQAAAAAAAIAAAAAgA=</HashCode>
+      <FileName>Datenobjekte\Insurance.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Invoice" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAwAAIBAAAAAAAAIAAAAAAAAABBEAECAA=</HashCode>
+      <FileName>Datenobjekte\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.InvoiceItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAwAAAEAEAAIAABAEAQAABAAAAIAAAAAwA=</HashCode>
+      <FileName>Datenobjekte\InvoiceItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.TariffNumber" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgBAAAAAAAAAQEAAgAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>Datenobjekte\InvoiceItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Options" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABQAAAAAAAAAAAQAAAAABAAAAAQAAAAgAAgA=</HashCode>
+      <FileName>Datenobjekte\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Room" Collapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAABAEAAAAAAAAAAAQAAAAEAAAAAAAAgA=</HashCode>
+      <FileName>Datenobjekte\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.TreatedWith" Collapsed="true">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAJCAAAEEAAgAAAEgAQAAAAAAAAQAAAAFAgAAAAIAgA=</HashCode>
+      <FileName>Datenobjekte\TreatedWith.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Datenobjekte.Treatment" Collapsed="true">
+    <Position X="15" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAADAAACAQAAAhAAACgQAAAgCAAQAAgAEAAAAEAQAgA=</HashCode>
+      <FileName>Datenobjekte\Treatment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Appointment" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEABAgAAAAIAAAAAAAAAAAAAgAAAQAA=</HashCode>
+      <FileName>Datenobjekte\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Patient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgBihAAAAKAAAAAgkAAAEJQACBAUQAgAAQAQICMAMlY=</HashCode>
+      <FileName>Datenobjekte\Patient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Address" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACBKAAAAAAAAAEAAgAAAAIAIIAQgACAEIAgQAAAhA=</HashCode>
+      <FileName>Datenobjekte\Patient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Contact" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAABAEAAAAAAIAAAACAAAAAAAAAQAAAhA=</HashCode>
+      <FileName>Datenobjekte\Patient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.PatientNameAndId" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAQAhAAEQMAAAAAAACAAAAAIAAAAAAAAAAAhA=</HashCode>
+      <FileName>Datenobjekte\PatientNameId.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.AddressEditor" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAIgAAADAAABAIAACAAQIGAAAAAAAgBAAAAAAAAIA=</HashCode>
+      <FileName>Dialoge\AddressEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.AskNumericForm" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIgQAECAAAFAABACAAAYSAAAAAAAAFgAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\AskNumericForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.ContactEditor" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIgAgACBAAABAECCAAAgCAAAAAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Dialoge\ContactEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.InvoiceGroupAndItemEditor" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XhAA4gocgCsQkZCAKECwwACagAQAIUAA4oBQAkgAZEA=</HashCode>
+      <FileName>Dialoge\InvoiceGroupAndItemEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.PatientEditor" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wAAYoBCEDACQX1AhTCUUAIKCAgYAiIANvKAQIATkEI=</HashCode>
+      <FileName>Dialoge\PatientEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.AdditionalPatientInfo" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAhkAAAADAAAAAgAAAgAAAAQCAAAECAARAAAAA=</HashCode>
+      <FileName>Dialoge\PatientEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.SuchePatientForm" Collapsed="true">
+    <Position X="20.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQBIgEQQCAAIBAAADCAAgYyAAAAAAAAFAAAAAAACAA=</HashCode>
+      <FileName>Dialoge\SuchePatientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.HPSchedule" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yQnTBGJ5UuXsZhaOIaHYqCZPRUDyMCFGMAGwAIF6EhU=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Database" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAEAgAAAAID0AgIAATAQgEEQECABoAAABAgKCEDA=</HashCode>
+      <FileName>Helferlein\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.DoDatabaseMagic" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABUhBIiBMABDGIAUIIAYAIsANEmAtwAUAgQAioIMbQ=</HashCode>
+      <FileName>Helferlein\DoDatabaseMagic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.LogFile" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAQUAAAABCAAAAAAAABQAEAEBAAAAQAgA=</HashCode>
+      <FileName>Helferlein\LogFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.ExtensionMethos" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Helferlein\MethodExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Program" Collapsed="true">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.AboutForm" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAAACAAAgIAAAAAAAAABAAAA=</HashCode>
+      <FileName>Dialoge\About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.AffirmApointmentsForm" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YSAAAQEABDAAAEAAAICAABgCAAAAAIADEAgAAAMAAAA=</HashCode>
+      <FileName>Dialoge\AffirmApointmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.AskDoubleForm" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIgAAECAAAFAABACAAAYSAAAAAAAAFAAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\AskDoubleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.AskStringForm" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAECAAAFAABACAAAQCAAAAAAAAFAAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\AskStringForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.GroupEditor" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAohAAACACABAABwGBFgJCQAQAoSAphCAAAkQgABA=</HashCode>
+      <FileName>Dialoge\GroupEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.InvoicePrinter" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUABQACCYAAACBACAAAACAAAACAACAAAAABAAAAA=</HashCode>
+      <FileName>Dialoge\InvoicePrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.InvoicePrintingDlg" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAUBABAAKCUAAYABACiABAChECAABgAAAhAEYDAAAE=</HashCode>
+      <FileName>Dialoge\InvoicePrintingDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.ItemEditor" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCAIgACASCAABAAAASAgGACAAQBAAAAgACAgAQAAAA=</HashCode>
+      <FileName>Dialoge\ItemEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.OptionenEditor" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIgAAACAAAAAAAAGAAAACAAAAACAAACAAAQAAAAA=</HashCode>
+      <FileName>Dialoge\OptionenEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.ShowAppointmentsToInvoice" Collapsed="true">
+    <Position X="16.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACACAAAGAAAACAAAACBAAAAAAAAEQAAAAAAAA=</HashCode>
+      <FileName>Dialoge\ShowAppointmentsToInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.ShowFees" Collapsed="true">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACBAAAACACAIAAAACAgABCAAAAAAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>Dialoge\ShowFees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.TestRechnungsdruck" Collapsed="true">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACCQQCICBACAAAACAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\TestRechnungsdruck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.TreatedWithEditor" Collapsed="true">
+    <Position X="13.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJgAICCCAQFAABQ6AAAMDAAQAAACBBAACAAABIIA=</HashCode>
+      <FileName>Dialoge\TreatedWithEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.TreatmentEditor" Collapsed="true">
+    <Position X="18.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIMgCIACAhBBgABYGQAAYiCIRAAAFCBEAUAAEAAAA=</HashCode>
+      <FileName>Dialoge\TreatmentEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.Optionen.OptionControl" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\Optionen\OptionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.Optionen.PanelDatabaseConnection" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAQABAAAACAAAASAAAAAAIAABAAAAAEAAA=</HashCode>
+      <FileName>Dialoge\Optionen\PaneDatabaselConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.Optionen.PanelDayView" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAQABAAAACAAAASAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dialoge\Optionen\PanelDayView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Dialoge.Optionen.PanelHealer" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACFQAAAACgCBACUSAAAAAAAAAAAQCCAAgAA=</HashCode>
+      <FileName>Dialoge\Optionen\PanelHealer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlashWindow" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAQCAAAAABAAAAAAAAAACABAAAIEEAAEAIACA=</HashCode>
+      <FileName>Helferlein\FlashWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Helferlein.AllThoseTinyHelper" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBAAAAAAAAAAAAAAAAAgAACAAAAAAAAAAA=</HashCode>
+      <FileName>Helferlein\GraficHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Properties.Resources" Collapsed="true">
+    <Position X="11.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQy8rGAAAwMCRiICABB2IAQhwUAAEAGoCAMAWcCQIE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Properties.Settings" Collapsed="true">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAKAgAAAAABAISAAIAADAAAAAYAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Accounting" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAEAAACAAEAAgABAABAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\Accounting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.AppointmentsForInvoice" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAEAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\AppointmentsForInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Fee" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAACAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Rechnungswesen\Fee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.FeeList" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\FeeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Group" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAACAAEAAgAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Rechnungswesen\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Insurance" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\Insurance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InsuranceList" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\InsuranceList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoiceAppointment" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAECAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\InvoiceAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoiceAutomator" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABABAAAQEQAAAACEAAAAgAAAAA=</HashCode>
+      <FileName>Rechnungswesen\InvoiceAutomator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoicePrintDevice" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACAAAEAAA=</HashCode>
+      <FileName>Rechnungswesen\InvoicePrintDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoiceRecipient" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAYAAAAAEggAAAAAAQAAQAAAAAAAAAgAAAAw=</HashCode>
+      <FileName>Rechnungswesen\InvoiceRecipient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoiceSelector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEAAAAAAgAQAAAAAAgQAAAAAQAAAAAIAAAAACAg=</HashCode>
+      <FileName>Rechnungswesen\InvoiceSelector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.InvoiceTreatmentDetails" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAACAQBAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Rechnungswesen\InvoiceTreatmentDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Item" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABDYAAAAAAgAAQEAAAAAAAAAAAAAAAABAAAAAAAAQA=</HashCode>
+      <FileName>Rechnungswesen\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.LinePrintDevice" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIACAAAAAAAAAAABAAAAAAAAAACAAAEABA=</HashCode>
+      <FileName>Rechnungswesen\LinePrintDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Treatment" Collapsed="true">
+    <Position X="16.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAEACAQAACBAAQAgAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\Treatment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPSchedule.Rechnungswesen.Treatments" Collapsed="true">
+    <Position X="20.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rechnungswesen\Treatments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HPSchedule.Datenobjekte.IDatabasedObject" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\IDatabased.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HPSchedule.Datenobjekte.IUniqueDatabasedObject" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\IDatabased.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HPSchedule.Datenobjekte.IDatabasedCollection" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\IDatabased.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="HPSchedule.Datenobjekte.dbAction" Collapsed="true">
+    <Position X="8" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAEAAAAAAAAQAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\dbAction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HPSchedule.Datenobjekte.PrintingMode" Collapsed="true">
+    <Position X="13.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Datenobjekte\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HPSchedule.modus" Collapsed="true">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HPSchedule.Dialoge.OptionEntry" Collapsed="true">
+    <Position X="11.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAgAAAAAAAQCAAAAAIAAAAA=</HashCode>
+      <FileName>Dialoge\OptionenEditor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RichTextBoxExtended">
+</Property><Property Name="Projektmappendatei" Value="C:\Dokumente und Einstellungen\PC Dornauf\Desktop\RichTextBoxExtended\RichTextBoxExtended\RichTextBoxExtended.sln">
+</Property><Property Name="Date" Value="Sonntag, 19. August 2007">
+</Property><Property Name="Time" Value="13:47">
+</Property></Properties><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RichTextBoxExtended.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="RichTextBoxExtended.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

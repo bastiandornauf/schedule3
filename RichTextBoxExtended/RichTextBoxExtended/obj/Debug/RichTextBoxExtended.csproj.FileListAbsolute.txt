@@ -1,0 +1,10 @@
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\bin\Debug\RichTextBoxExtended.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\bin\Debug\RichTextBoxExtended.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.resources
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\RichTextBoxExtended\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.pdb

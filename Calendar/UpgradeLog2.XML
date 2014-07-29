@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calendar">
+</Property><Property Name="Solution File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Calendar.sln">
+</Property><Property Name="User Options File" Value="C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Calendar.suo">
+</Property><Property Name="Date" Value="Dienstag, 1. November 2011">
+</Property><Property Name="Time" Value="16:11">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.suo" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar.suo">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Project file successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Calendar.csproj">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Program.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Program.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Settings.settings" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Form1.resx" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Properties\Resources.resx" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\Calendar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Project file successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\DayView.csproj">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\AbstractRenderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\AbstractRenderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Appointment.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\Appointment.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\AppointmentEventArgs.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\AppointmentEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\DayView.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DrawTool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\DrawTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\ITool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\ITool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\NewAppointmentEvent.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\NewAppointmentEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Office12Renderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\Office12Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Office11Renderer.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\Office11Renderer.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\ResolveAppointmentsEvent.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\ResolveAppointmentsEvent.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\Selection.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\Selection.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\SelectionTool.cs" Description="File successfully backed up as C:\Users\bdornauf\Dropbox\Coding\HPSchedule\calendar_src(2)\Backup1\DayView\SelectionTool.cs">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DayView" Source="DayView\DayView.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calendar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar\Calendar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DayView" Source="DayView\DayView.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

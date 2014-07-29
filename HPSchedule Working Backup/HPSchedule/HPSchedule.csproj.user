@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\bdornauf\Desktop\publish schedule\|C:\Users\bdornauf\Desktop\Coding_alt\Coding\hp\publish\|c:\|ftp://ftp.bastian-dornauf.de/webseiten/www.bastian-dornauf.de/schedule/|C:\Dokumente und Einstellungen\PC Dornauf\Desktop\publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.bastian-dornauf.de/schedule/index.html/|http://bastian-dornauf.de/schedule/index.html/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.bastian-dornauf.de/schedule/</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.bastian-dornauf.de/schedule/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>de-DE</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+</Project>

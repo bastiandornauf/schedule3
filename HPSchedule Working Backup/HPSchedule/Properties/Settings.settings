@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HPSchedule.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KalendarZeilenhöhe" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="dbLocalServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="dbLocalUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bdornauf</Value>
+    </Setting>
+    <Setting Name="dbLocalPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">poly2312</Value>
+    </Setting>
+    <Setting Name="dbLocalDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">schedule</Value>
+    </Setting>
+    <Setting Name="dbRemoteServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dbRemoteUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dbRemotePassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dbRemoteDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="useRemoteDatabase" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="showDaysInDayview" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="pathToInvoiceFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\bdornauf\Desktop\invoices</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

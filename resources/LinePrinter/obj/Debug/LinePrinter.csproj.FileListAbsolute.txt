@@ -1,0 +1,5 @@
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\LinePrinter\bin\Debug\LinePrinter.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\LinePrinter\bin\Debug\LinePrinter.pdb
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\LinePrinter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\LinePrinter\obj\Debug\LinePrinter.dll
+C:\Users\bdornauf\Dropbox\Coding\HPSchedule\LinePrinter\obj\Debug\LinePrinter.pdb

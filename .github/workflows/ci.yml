@@ -21,11 +21,15 @@ jobs:
         run: |
           dotnet restore ./api/HPSchedule.Api/HPSchedule.Api.csproj
           dotnet restore ./api/HPSchedule.Api.Tests/HPSchedule.Api.Tests.csproj
+          dotnet restore ./domain/HPSchedule.Domain/HPSchedule.Domain.csproj
+          dotnet restore ./infrastructure/HPSchedule.Infrastructure/HPSchedule.Infrastructure.csproj
 
       - name: Build
         run: |
           dotnet build --no-restore -c Release ./api/HPSchedule.Api/HPSchedule.Api.csproj
           dotnet build --no-restore -c Release ./api/HPSchedule.Api.Tests/HPSchedule.Api.Tests.csproj
+          dotnet build --no-restore -c Release ./domain/HPSchedule.Domain/HPSchedule.Domain.csproj
+          dotnet build --no-restore -c Release ./infrastructure/HPSchedule.Infrastructure/HPSchedule.Infrastructure.csproj
 
       - name: Test
         run: |
